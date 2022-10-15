@@ -1,5 +1,4 @@
-# printf
-## A simple printf function.
+# printf - A simple printf function written in C.
 ###
 ###
 
