@@ -1,4 +1,4 @@
-.TH _PRINTF "1" "10 JULY 2022" "0x11. C - printf"
+.TH _PRINTF "1" "17 OCTOBER 2022" "0x11. C - _printf"
 .SH NAME
 _printf - print data according to a format
 .SH SYNOPSIS
